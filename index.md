@@ -2,122 +2,36 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Привет, я Лиза.
 
-[Link to another page](./another-page.html).
+## Пара слов обо мне.
 
-There should be whitespace between paragraphs.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fringilla vel nisl ultrices pharetra. Sed aliquet urna eget lorem consequat feugiat. Mauris id libero mi. Morbi luctus, erat sit amet laoreet eleifend, urna est auctor massa, vitae auctor ex turpis suscipit lacus. Suspendisse auctor maximus nulla, ut auctor tortor ornare eu. Cras et est risus. Praesent in luctus urna. Quisque lobortis iaculis porta.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+In convallis, risus sed mattis luctus, ante urna dictum erat, a malesuada nulla felis venenatis nibh. Ut porta tempor erat, et fermentum ex cursus et. Etiam varius luctus mauris, quis aliquam purus mattis et. Fusce vel aliquet orci. In nec gravida odio. Nullam rhoncus posuere ante, quis congue nibh hendrerit quis. Ut aliquet ac orci eget porta. Ut pretium, massa eget commodo aliquam, neque libero efficitur diam, id consectetur massa libero sed erat. Duis molestie, nunc ut congue iaculis, sem ligula sollicitudin massa, ac auctor augue ipsum id purus. Vivamus nec metus at lectus euismod vehicula mollis eu enim.
 
-# Header 1
+In feugiat tortor quis fringilla commodo. Suspendisse velit leo, ullamcorper non arcu in, posuere posuere leo. Quisque condimentum ut lacus id tincidunt. Suspendisse dapibus risus nibh, et pulvinar turpis scelerisque quis. Maecenas nisi dolor, malesuada rhoncus imperdiet ac, egestas ut libero. Nam nec ipsum sagittis, semper leo vel, lobortis turpis. Fusce malesuada gravida metus euismod consectetur. Sed feugiat consequat porta. Nulla fringilla posuere lacinia.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Мои работы.
 
-## Header 2
+### Сборник "Писательский 2022"
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Многое произошло со мной — со всеми нами — в этом году. Один из важных моментов и в принципе воспоминаний о 2022-ом — мое творчество. Если вы почему-то еще не в курсе: да, я пишу. Ведь это так здорово — писать. 
+> 
+> Но еще более здорово — делиться тем, что пишешь. 
+> 
+> Наверное, я все еще не до конца готова. А может, и готова… Не знаю. 
+> 
+> Словом, не судите строго и не ждите ничего сверхъестественного. Я лишь учусь. Всегда есть к чему стремиться. 
 
-### Header 3
+Приятного чтения. И спасибо, что вы всегда рядом
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* Зимнее солнце
+* Спалить дотла, пролог
+* Поговоришь со мной?
+* Мам, а правда ли...
+* Небо залито кровью
+* Переступив за грань
+* Тяжко быть звездой
+* За чашкой мятного чая
+* Сборник "Зимнее солнце & Кино"

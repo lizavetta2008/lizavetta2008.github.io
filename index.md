@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<style>
+   .leftimg {
+    float:left;
+    margin: 7px 7px 7px 0;
+   }
+   .rightimg  {
+    float: right;
+    margin: 7px 0 7px 7px;
+   }
+  </style>
+
+
+<img src="liza1.jpg" width="200" class="leftimg">
+
 # Привет, я Лиза.
 
 ## Пара слов обо мне.

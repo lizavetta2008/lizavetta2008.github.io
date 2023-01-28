@@ -39,7 +39,7 @@ In convallis, risus sed mattis luctus, ante urna dictum erat, a malesuada nulla 
 > Приятного чтения. И спасибо, что вы всегда рядом
 
 * [Зимнее солнце](winter_sun.md)
-* Спалить дотла, пролог
+* [Спалить дотла, пролог](burn_down_prologue.md)
 * Поговоришь со мной?
 * Мам, а правда ли...
 * Небо залито кровью

@@ -24,7 +24,7 @@ In convallis, risus sed mattis luctus, ante urna dictum erat, a malesuada nulla 
 >
 > Приятного чтения. И спасибо, что вы всегда рядом
 
-* Зимнее солнце
+* [Зимнее солнце](winter_sun.md)
 * Спалить дотла, пролог
 * Поговоришь со мной?
 * Мам, а правда ли...

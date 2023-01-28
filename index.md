@@ -5,11 +5,11 @@ layout: default
 <style>
    .leftimg {
     float:left;
-    margin: 7px 7px 7px 0;
+    margin: 14px 14px 14px 0;
    }
    .rightimg  {
     float: right;
-    margin: 7px 0 7px 7px;
+    margin: 14px 0 14px 14px;
    }
   </style>
 

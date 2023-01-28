@@ -5,7 +5,7 @@ layout: default
 <style>
    .leftimg {
     float:left;
-    margin: 14px 14px 14px 0;
+    margin: 0px 30px 15px 0;
    }
    .rightimg  {
     float: right;
@@ -14,7 +14,7 @@ layout: default
   </style>
 
 
-<img src="liza1.jpg" width="200" class="leftimg">
+<img src="liza1.jpg" width="225" class="leftimg">
 
 # Привет, я Лиза.
 

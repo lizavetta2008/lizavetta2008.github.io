@@ -42,7 +42,7 @@ In convallis, risus sed mattis luctus, ante urna dictum erat, a malesuada nulla 
 * [Спалить дотла, пролог](burn_down_prologue.md)
 * [Поговоришь со мной?](speak_with_me.md)
 * [Мам, а правда ли...](mum_is_it_true.md)
-* Небо залито кровью
+* [Небо залито кровью](sky_in_blood.md)
 * Переступив за грань
 * Тяжко быть звездой
 * За чашкой мятного чая

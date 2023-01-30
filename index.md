@@ -44,6 +44,6 @@ In convallis, risus sed mattis luctus, ante urna dictum erat, a malesuada nulla 
 * [Мам, а правда ли...](mum_is_it_true.md)
 * [Небо залито кровью](sky_in_blood.md)
 * [Переступив за грань](cross_the_line.md)
-* Тяжко быть звездой
+* [Тяжко быть звездой](hard_to_be_star.md)
 * За чашкой мятного чая
 * Сборник "Зимнее солнце & Кино"

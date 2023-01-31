@@ -46,4 +46,4 @@ In convallis, risus sed mattis luctus, ante urna dictum erat, a malesuada nulla 
 * [Переступив за грань](cross_the_line.md)
 * [Тяжко быть звездой](hard_to_be_star.md)
 * [За чашкой мятного чая](mint_tea.md)
-* Сборник "Зимнее солнце & Кино"
+* [Сборник "Зимнее солнце & Кино"](wsk_dance.md)

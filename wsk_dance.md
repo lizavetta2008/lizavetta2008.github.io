@@ -123,4 +123,4 @@ layout: default
 
 Потому что это — судьба.
 
-<center><i><a href="wsk_song_no_words.md">Песня без слов >></a></i></center>
+*[Песня без слов >>](wsk_song_no_words.md)*

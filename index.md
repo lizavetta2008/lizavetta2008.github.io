@@ -14,7 +14,7 @@ layout: default
   </style>
 
 
-<img src="liza1.jpg" width="225" class="leftimg">
+<img src="assets/images/liza1.jpg" width="225" class="leftimg">
 
 # Привет, я Лиза.
 

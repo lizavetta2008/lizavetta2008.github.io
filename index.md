@@ -16,15 +16,15 @@ layout: default
 
 <img src="assets/images/liza1.jpg" width="225" class="leftimg">
 
-# Привет, я Лиза.
+# Привет, я Лиза
 
-## Пара слов обо мне.
+## Пара слов обо мне
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque fringilla vel nisl ultrices pharetra. Sed aliquet urna eget lorem consequat feugiat. Mauris id libero mi. Morbi luctus, erat sit amet laoreet eleifend, urna est auctor massa, vitae auctor ex turpis suscipit lacus. Suspendisse auctor maximus nulla, ut auctor tortor ornare eu. Cras et est risus. Praesent in luctus urna. Quisque lobortis iaculis porta.
 
 In convallis, risus sed mattis luctus, ante urna dictum erat, a malesuada nulla felis venenatis nibh. Ut porta tempor erat, et fermentum ex cursus et. Etiam varius luctus mauris, quis aliquam purus mattis et. Fusce vel aliquet orci. In nec gravida odio. Nullam rhoncus posuere ante, quis congue nibh hendrerit quis. Ut aliquet ac orci eget porta. Ut pretium, massa eget commodo aliquam, neque libero efficitur diam, id consectetur massa libero sed erat. Duis molestie, nunc ut congue iaculis, sem ligula sollicitudin massa, ac auctor augue ipsum id purus. Vivamus nec metus at lectus euismod vehicula mollis eu enim.
 
-## Мои работы.
+## Мои работы
 
 ### Сборник "Писательский 2022"
 
